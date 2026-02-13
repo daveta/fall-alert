@@ -1,7 +1,7 @@
 Terms & Conditions – Fall Alert Notification System
 
 Program Description  
-This SMS program sends automated safety alerts (e.g., fall detection, prolonged inactivity, room exit notifications) to authorized family members and caregivers.
+This SMS program sends automated safety alerts (e.g., fall detection, prolonged inactivity, room exit notifications) to authorized users. Messages are safety‑related and sent only when a relevant event occurs.
 
 Message Frequency  
 Message frequency varies based on detected safety events.
@@ -13,9 +13,7 @@ Opt‑In
 Users opt in by explicitly enabling SMS alerts in the application settings and providing their mobile phone number. SMS safety alerts are sent only after the user completes this opt‑in action.
 
 Opt‑Out  
-You may opt out at any time by replying STOP.
-To resume messages, reply START.
-For help, reply HELP.
+Users can opt out at any time by replying STOP. For help, reply HELP. Message and data rates may apply.
 
 Support Contact  
 For assistance, contact: dave@taniguchi.com
