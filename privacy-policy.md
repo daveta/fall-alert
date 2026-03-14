@@ -35,4 +35,4 @@ For questions, support, or data removal requests, contact:
 dave@taniguchi.com
 
 ## Terms & Conditions
-Please also review our [Terms & Conditions](https://raw.githubusercontent.com/daveta/fall-alert/refs/heads/main/terms-and-conditions.md).
+Please also review our [Terms & Conditions](https://daveta.github.io/fall-alert/terms-and-conditions).
