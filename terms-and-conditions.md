@@ -39,4 +39,4 @@ These terms may be updated periodically. Continued use of the application consti
 dave@taniguchi.com
 
 ## Privacy Policy
-Please also review our [Privacy Policy](https://daveta.github.io/fall-alert/privacy-policy)).
+Please also review our [Privacy Policy](https://daveta.github.io/fall-alert/privacy-policy).
